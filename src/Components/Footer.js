@@ -84,18 +84,19 @@ margin : 0% 15% 0 5%;
             <Text font="bold">Company</Text>
 
             <a href="/#aboutus"><Text ml="3px">About Us</Text> </a>
+            <a href="/terms">
 
-            <Link to="/terms">
               <Text ml="3px">
                 Terms & conditions
               </Text>
-            </Link>
+            </a>
+            <a href="/risk">
 
-            <Link to="/risk">
               <Text ml="3px">
                 Risk disclosure
               </Text>
-            </Link>
+            </a>
+
           </Container>
 
           <Container>
