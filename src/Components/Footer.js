@@ -101,7 +101,10 @@ margin : 0% 15% 0 5%;
 
           <Container>
             <Text font="bold">Service</Text>
+            <a href="https://supportgulfexio.zendesk.com">
             <Text ml="3px">Help Center</Text>
+
+            </a>
 
           </Container>
 
