@@ -26,7 +26,7 @@ width:100%;
 height:max-content;
 gap:16px;
 border-radius:25px;
-text-align:left;
+text-align:center;
 padding:64px 120px;
 
 
